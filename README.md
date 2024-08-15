@@ -61,15 +61,14 @@
 </p>
 
 <h3 align="left">🚀 Projects</h3>
-<ul>
-  <li>
-    <strong>E-commerce Platform:</strong> A full-stack MERN application for online shopping.
-    <a href="https://github.com/Amarjha01/E-commerce">
-      <img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723702722/Figma%20Designs/h20pex3wa6btwwkma3zt.svg" alt="View on GitHub" />
-    </a>
-  </li>
-</ul>
 
+<table>
+  <tr>
+    <td><strong>● E-commerce Platform:</strong> A full-stack MERN application for online shopping.</td>
+    <td><a href="https://github.com/Amarjha01/E-commerce"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+  </tr>
+</table>
+      
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjha01&show_icons=true&locale=en&layout=compact&count_private=true" alt="amarjha01" />
 </p>
