@@ -4,7 +4,7 @@
 <ul>
   <li>🌱 I’m currently learning <strong>Web Development</strong></li>
   <li>💬 Ask me about <strong>Technology</strong></li>
-  <li>📫 How to reach me <strong>amarjha880@gmail.com</strong></li>
+<!--   <li>📫 Reach me <strong>amarjha880@gmail.com</strong></li> -->
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/amarjha01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/amar880" target="_blank">
+<!--   <a href="https://www.codechef.com/users/amar880" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/amarjha880" target="_blank">
@@ -20,7 +20,7 @@
   </a>
   <a href="https://www.leetcode.com/amarjha880" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
