@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">Passionate computer science engineering student. Bridging technology and engineering for impact.</h3>
+<h3 align="center">Passionate computer science student. Bridging technology and engineering for impact.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
