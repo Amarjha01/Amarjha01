@@ -34,7 +34,7 @@
 <ul>
  <li><strong>E-commerce Platform:</strong> A full-stack MERN application for online shopping. Description of the project. 
 <a href="https://github.com/Amarjha01/E-commerce">
-  <img src="https://img.shields.io/badge/View%20on-GitHub-black?logo=github" alt="View on GitHub" />
+  <img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723699947/Figma%20Designs/onexzssgmeyocu3alqy8.svg" alt="View on GitHub" />
 </a>
 </li>
 
