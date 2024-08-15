@@ -32,7 +32,12 @@
 
 <h3 align="left">🚀 Projects</h3>
 <ul>
-  <li><strong>Mern Project 1:</strong> Description of the project. <a href="https://github.com/Amarjha01/E-commerce">View on GitHub</a></li>
+ <li><strong>E-commerce Platform:</strong> A full-stack MERN application for online shopping. Description of the project. 
+<a href="https://github.com/Amarjha01/E-commerce">
+  <img src="https://img.shields.io/badge/View%20on-GitHub-black?logo=github" alt="View on GitHub" />
+</a>
+</li>
+
 <!--   <li><strong>Project 2:</strong> Description of the project. <a href="https://github.com/amarjha01/react-project-2">View on GitHub</a></li> -->
 <!--   <li><strong>Project 3:</strong> Description of the project. <a href="https://github.com/amarjha01/react-project-3">View on GitHub</a></li> -->
 </ul>
