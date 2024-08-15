@@ -32,7 +32,7 @@
 
 <h3 align="left">🚀 Projects</h3>
 <ul>
-  <li><strong>Mern Project 1:</strong> Description of the project. <a href="https://[github.com/amarjha01/react-project-1](https://github.com/Amarjha01/E-commerce)">View on GitHub</a></li>
+  <li><strong>Mern Project 1:</strong> Description of the project. <a href="https://github.com/Amarjha01/E-commerce">View on GitHub</a></li>
 <!--   <li><strong>Project 2:</strong> Description of the project. <a href="https://github.com/amarjha01/react-project-2">View on GitHub</a></li> -->
 <!--   <li><strong>Project 3:</strong> Description of the project. <a href="https://github.com/amarjha01/react-project-3">View on GitHub</a></li> -->
 </ul>
