@@ -68,15 +68,15 @@
 
 <table>
   <tr>
-    <td><strong>● E-commerce Platform:</strong> A full-stack MERN application for online shopping.</td>
+    <td><strong>● E-commerce Platform :</strong> A full-stack MERN application for online shopping.</td>
     <td><a href="https://github.com/Amarjha01/E-commerce"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
   </tr>
        <tr>
-    <td><strong>● My Portfolio Pioneer:</strong> A full-stack application to showcase my skills, services & projects.</td>
+    <td><strong>● Portfolio Pioneer :</strong> A full-stack application to showcase my skills, services & projects.</td>
     <td><a href="https://github.com/Amarjha01/portfolio"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
   </tr>
          <tr>
-    <td><strong>● College Protal:</strong> A full-stack application for college admins, teachers & students.</td>
+    <td><strong>● College Protal :</strong> A full-stack application for college admins, teachers & students.</td>
     <td><a href="https://github.com/Amarjha01/Myfirstwebapp_v1.5.3"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
   </tr>
 </table>
