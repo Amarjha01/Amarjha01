@@ -81,10 +81,32 @@
   </tr>
 </table>
       
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarjha01&show_icons=true&locale=en&layout=compact&count_private=true" alt="amarjha01" />
-</p>
+<br>
+<br>
+## 📊 GitHub Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjha01&show_icons=true&locale=en&count_private=true" alt="amarjha01" />
-</p>
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarjha01&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amarjha01&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amarjha01&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amarjha01&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amarjha01&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=amarjha01&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjha01&theme=radical">
+
+</div><br>
+<br>
+<br>
+
+# 🎖 Badges
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+</div>
+</details>
+<br>
+
+
+
