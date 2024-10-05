@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer.
+- 🎓 I'm a Student and Full Stack Web Developer.
 - 🔭 I’m currently working on Web Development and DSA.
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate with open-source enthusiasts and developers.
