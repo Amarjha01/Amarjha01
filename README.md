@@ -120,11 +120,12 @@
 </div>
 <br>
 
-# 🎖 Badges
+# 🎖 Badges & Achievements
 
 <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <summary><b> GSSOC-Extd 24🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <img src="https://github.com/Amarjha01/Amarjha01/blob/main/GSSoC24_Stats.png" alt="GSSoC24_Stats" />
 </div>
 </details>
 <br>
