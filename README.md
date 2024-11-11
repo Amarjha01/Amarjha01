@@ -125,7 +125,7 @@
 <details>	
  <summary><b> GSSOC-Extd 24🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-    <img src="https://github.com/Amarjha01/Amarjha01/blob/main/GSSoC24_Stats.png" alt="GSSoC24_Stats" />
+    <img src="https://github.com/Amarjha01/Amarjha01/blob/main/assets/GSSoC24_Stats.png" alt="GSSoC24_Stats" />
 </div>
 </details>
 <br>
