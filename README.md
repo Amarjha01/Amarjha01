@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/> -->
 
 <div id="header" align="center">
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## 🌐 Connect with me:
+<!-- ## 🌐 Connect with me:
 
 <div align="center">
 
@@ -32,8 +32,8 @@
 <a href="https://linkedin.com/in/amarjha01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/amarjha01" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
-</div>
-
+</div> 
+-->
 <br>
 <!--   <a href="https://www.codechef.com/users/amar880" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
