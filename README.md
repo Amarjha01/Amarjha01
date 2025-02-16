@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amar jha" /> </p>
 
 <div>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
