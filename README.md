@@ -3,7 +3,7 @@
 <div id="header" align="center">
 
 <h1>Hey there, Amar this side!<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="35px" alt="GIF"></h1>
-<h2> ⚠️ soon profile will update </h2>
+
 </div>
 
 <br>
@@ -15,12 +15,11 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Full Stack Web Developer.
-- 🔭 I’m currently working on Web Development and DSA.
-- 🌱 I’m currently learning DevOps.
+- 🎓 Always a Student and Full Stack Web Developer.
+- 🔭 I’m currently working as full stack developer at febtech It solutions Pvt. Ltd.
 - 👯 I’m looking to collaborate with open-source enthusiasts and developers.
-- 🥅 2024 Goals: Learn DevOps and strengthen DSA.
-- 🧑‍💻 GirlScrip Summer Of Code Contributor.
+- 🧑‍💻 Ex - GSSOC24 extended.
+- 🧑‍💻 Project Admin Girl Script Summer Of Code 2025.
 
 
 <br>
@@ -92,18 +91,42 @@
 
 <table>
   <tr>
+    <th>Project</th>
+    <th>GitHub</th>
+    <th>Live</th>
+  </tr>
+  <tr>
     <td><strong>● E-commerce Platform :</strong> A full-stack MERN application for online shopping.</td>
-    <td><a href="https://github.com/Amarjha01/E-commerce"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+    <td><a href="https://github.com/Amarjha01/E-commerce"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><em>Coming Soon</em></td>
   </tr>
-       <tr>
-    <td><strong>● Portfolio Pioneer :</strong> A full-stack application to showcase my skills, services & projects.</td>
-    <td><a href="https://github.com/Amarjha01/portfolio"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+  <tr>
+    <td><strong>● Radical Unlearning :</strong> A learning platform connecting educators & learners for 1-on-1 sessions.</td>
+    <td><a href="https://github.com/Amarjha01/radicalunlearning"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://radical-unlearning.com/"><img src="https://img.shields.io/badge/Live-Radical--Unlearning-brightgreen" alt="Live Link" /></a></td>
   </tr>
-         <tr>
-    <td><strong>● College Protal :</strong> A full-stack application for college admins, teachers & students.</td>
-    <td><a href="https://github.com/Amarjha01/Myfirstwebapp_v1.5.3"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+  <tr>
+    <td><strong>● UdemyGo :</strong> A modern landing page and platform concept for online course discovery.</td>
+    <td><a href="https://github.com/Amarjha01/udemygo"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://udemygo.com/"><img src="https://img.shields.io/badge/Live-UdemyGo-blue" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● DevNotes :</strong> A lightweight developer-focused note-taking app with markdown support.</td>
+    <td><a href="https://github.com/Amarjha01/DevNotes"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://devnotes.amarjha.dev/"><img src="https://img.shields.io/badge/Live-DevNotes-orange" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● Infant Care Compass :</strong> A parenting support tool for infant care resources and tracking.</td>
+    <td><a href="https://github.com/Amarjha01/InfantCareCompass"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://infantcarecompass.live/"><img src="https://img.shields.io/badge/Live-InfantCareCompass-yellowgreen" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● Parrot Consult (WIP):</strong> An AI-powered consulting assistant platform.</td>
+    <td><a href="https://github.com/Amarjha01/parrotConsult"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://parrotconsult.com/"><img src="https://img.shields.io/badge/Live-ParrotConsult-lightgrey" alt="Live Link" /></a></td>
   </tr>
 </table>
+
       
 ## 📊 GitHub Stats:
 
