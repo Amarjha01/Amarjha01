@@ -13,13 +13,21 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 </div>
 
-### 💫 About Me
+💫 About Me
 
-- 🎓 Always a Student and Full Stack Web Developer.
-- 🔭 I’m currently working as full stack developer at febtech It solutions Pvt. Ltd.
-- 👯 I’m looking to collaborate with open-source enthusiasts and developers.
-- 🧑‍💻 Ex - GSSOC24 extended.
-- 🧑‍💻 Project Admin Girl Script Summer Of Code 2025.
+👨‍💻 Full Stack Web Developer | Lifelong Learner | Tech Explorer
+
+💼 Currently building scalable web apps at Febtech IT Solutions Pvt. Ltd.
+
+🤝 Actively contributing to and managing open-source initiatives
+
+🚀 Ex Contributor – GirlScript Summer of Code 2024 (Extended)
+
+👨‍🏫 Project Admin – GirlScript Summer of Code 2025
+
+🌱 Passionate about React, Node.js, DevOps, and building impactful digital products
+
+🎯 Always seeking opportunities to collaborate, learn, and innovate
 
 
 <br>
