@@ -2,7 +2,14 @@
 
 <div id="header" align="center">
 
-<h1>Hey there, Amar this side!<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="35px" alt="GIF"></h1>
+<h1 align="center">Hi, I'm Amar Jha</h1>
+<h3 align="center">Backend / Platform Engineer — Cloud & Distributed Systems</h3>
+
+<p align="center">
+Backend / platform engineer building scalable backend systems and cloud-native platforms.
+Currently building Axeiro, a cloud application deployment and orchestration platform involving automated builds, runtime provisioning, and multi-tenant routing on AWS.
+</p>
+
 
 </div>
 
@@ -13,24 +20,32 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 </div>
 
-💫 About Me
+## 👨‍💻 About Me
 
-👨‍💻 Full Stack Web Developer | Lifelong Learner | Tech Explorer
+- Backend / platform-focused engineer working on cloud-native systems and deployment infrastructure  
+- Hands-on with Node.js backends, microservices, async workers, and AWS-based architectures  
+- Currently building **Axeiro** — a Heroku-like deployment platform involving build pipelines, runtime orchestration, and multi-tenant routing  
+- Experience working on real-time systems, authentication platforms, and production deployments  
+- Open-source contributor (GirlScript Summer of Code)
 
-💼 Currently building scalable web apps at Febtech IT Solutions Pvt. Ltd.
+My primary interests are backend engineering, distributed systems, and cloud platforms.
 
-🤝 Actively contributing to and managing open-source initiatives
-
-🚀 Ex Contributor – GirlScript Summer of Code 2024 (Extended)
-
-👨‍🏫 Project Admin – GirlScript Summer of Code 2025
-
-🌱 Passionate about React, Node.js, DevOps, and building impactful digital products
-
-🎯 Always seeking opportunities to collaborate, learn, and innovate
 
 
 <br>
+## 🚀 Core Platform Work
+
+### Axeiro — Cloud Deployment & Orchestration Platform
+A backend/platform project focused on automating application builds and deployments on AWS.
+
+- Designed and built a container-based deployment platform using AWS ECS and Fargate  
+- Built a deployment orchestrator handling build jobs, runtime provisioning, and deployment state  
+- Implemented daemonless image builds and pushed artifacts to private container registries  
+- Designed multi-tenant routing with wildcard domains and load balancer rules  
+- Built authentication and authorization services with OAuth, JWT, and RBAC  
+- Implemented state-driven deployment lifecycle with failure tracking and error logs  
+
+Tech: Node.js, AWS ECS, ECR, ALB, IAM, Docker, MongoDB, Kafka
 
 <!-- ## 🌐 Connect with me:
 
@@ -53,6 +68,23 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a> -->
 </p>
+## 🧠 Technical Focus
+
+**Backend & Systems**
+- Node.js, Express, REST APIs, async workers, event-driven services, Socket.IO
+
+**Cloud & Platform**
+- AWS (ECS, ECR, ALB, IAM, EC2, S3, CloudFront, VPC)
+- Containerized deployments, orchestration, automation
+
+**DevOps**
+- Docker, CI/CD pipelines, Linux, Nginx
+
+**Databases**
+- MongoDB, MySQL
+
+**Frontend (supporting)**
+- React, Next.js, Tailwind
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -103,36 +135,22 @@
     <th>GitHub</th>
     <th>Live</th>
   </tr>
-  <tr>
-    <td><strong>● E-commerce Platform :</strong> A full-stack MERN application for online shopping.</td>
-    <td><a href="https://github.com/Amarjha01/E-commerce"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><em>Coming Soon</em></td>
+    <tr>
+    <td><strong>● Axeiro:</strong> Designed a state-driven deployment lifecycle to manage build, deploy, run, and failure transitions</td>
+    <td><a href="https://github.com/axeiro"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://axeiro.com/"><img src="https://img.shields.io/badge/Live-axeiro-black" alt="Live Link" /></a></td>
+  </tr>
+    <tr>
+    <td><strong>● Parrot Consult (WIP):</strong> An AI-powered consulting assistant platform.</td>
+    <td><a href="https://github.com/Amarjha01/parrotConsult"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://parrotconsult.com/"><img src="https://img.shields.io/badge/Live-ParrotConsult-black" alt="Live Link" /></a></td>
   </tr>
   <tr>
     <td><strong>● Radical Unlearning :</strong> A learning platform connecting educators & learners for 1-on-1 sessions.</td>
     <td><a href="https://github.com/Amarjha01/radicalunlearning"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://radical-unlearning.com/"><img src="https://img.shields.io/badge/Live-Radical--Unlearning-brightgreen" alt="Live Link" /></a></td>
+    <td><a href="https://radical-unlearning.com/"><img src="https://img.shields.io/badge/Live-Radical--Unlearning-black" alt="Live Link" /></a></td>
   </tr>
-  <tr>
-    <td><strong>● UdemyGo :</strong> A modern landing page and platform concept for online course discovery.</td>
-    <td><a href="https://github.com/Amarjha01/udemygo"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://udemygo.com/"><img src="https://img.shields.io/badge/Live-UdemyGo-blue" alt="Live Link" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>● DevNotes :</strong> A lightweight developer-focused note-taking app with markdown support.</td>
-    <td><a href="https://github.com/Amarjha01/DevNotes"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://devnotes.amarjha.dev/"><img src="https://img.shields.io/badge/Live-DevNotes-orange" alt="Live Link" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>● Infant Care Compass :</strong> A parenting support tool for infant care resources and tracking.</td>
-    <td><a href="https://github.com/Amarjha01/InfantCareCompass"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://infantcarecompass.live/"><img src="https://img.shields.io/badge/Live-InfantCareCompass-yellowgreen" alt="Live Link" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>● Parrot Consult (WIP):</strong> An AI-powered consulting assistant platform.</td>
-    <td><a href="https://github.com/Amarjha01/parrotConsult"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://parrotconsult.com/"><img src="https://img.shields.io/badge/Live-ParrotConsult-lightgrey" alt="Live Link" /></a></td>
-  </tr>
+  
 </table>
 
       
